@@ -1,1 +1,2 @@
+RPi.GPIO
 -e git://github.com/longcircuit/rfm69py.git#egg=rfm69py
